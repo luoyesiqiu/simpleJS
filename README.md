@@ -6,4 +6,4 @@ simpleJS是手机上的JavaScript编辑环境，可以编辑并运行JavaScript�
 
 ## 截图
 
-![编辑器](/screenshot/simpleJS.png)
+![编辑器](/screenshots/simpleJS.png)
